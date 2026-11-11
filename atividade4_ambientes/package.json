@@ -1,0 +1,19 @@
+{
+  "name": "atividade4_ambientes",
+  "version": "1.0.0",
+  "description": "Implementação e testes de algoritmos fundamentais com Jest e programação defensiva",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "algoritmos",
+    "jest",
+    "testes",
+    "clean-code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
