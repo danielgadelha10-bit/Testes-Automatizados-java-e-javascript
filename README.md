@@ -1,4 +1,4 @@
-# 📚 Atividade 4 - Projeto de Algoritmos e Testes Automatizados
+# 📚 Atividade  - Projeto de Algoritmos e Testes Automatizados
 
 Implementação e validação dos 6 algoritmos fundamentais solicitados nas linguagens **JavaScript (Node.js)** e **Java**, com suporte completo para execução no **Visual Studio Code**, via **Terminal** e no **Replit**.
 
